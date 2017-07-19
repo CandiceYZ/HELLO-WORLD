@@ -1,3 +1,4 @@
 # HELLO-WORLD
-JUST A TEST REPOSITORY
-second test
+public static void test(){
+system.out.println("HELLO,WORLD!");
+}
